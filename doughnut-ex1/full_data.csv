@@ -1,0 +1,35 @@
+,domain,dimension,indicator,date,boundary,shortfallOvershoot_pct
+0,ecological,air pollution,Aerosol optical depth,2022,0.1,-28.6
+1,ecological,biodiversity breakdown,Species extinctions,2022,10.0,900.0
+2,ecological,biodiversity breakdown,HANPP,2022,5.59,204.5
+3,ecological,chemical pollution,Hazardous chemicals production,2022,60.0,3214.5
+4,ecological,climate change,CO₂ concentration,2022,350.0,95.8
+5,ecological,climate change,Radiative forcing,2022,1.0,191.5
+6,social,connectivity,Lack of internet,2022,0.0,35.8
+7,social,connectivity,Lack of public transport,2022,0.0,52.7
+8,social,education,Illiteracy,2022,0.0,16.2
+9,social,education,Incomplete secondary school,2022,0.0,36.9
+10,social,energy,Lack of electricity,2022,0.0,8.5
+11,social,energy,Lack of clean fuels indoors,2022,0.0,25.9
+12,social,equality,genderInequalityIndex,2022,0.0,34.7
+14,social,food,Food insecurity,2022,0.0,29.4
+15,social,food,Undernourishment,2022,0.0,9.6
+16,ecological,freshwater disruption,Blue-water flows,2022,10.2,82.3
+17,ecological,freshwater disruption,Soil moisture,2022,11.1,73.5
+18,social,health,Lack of health services,2022,0.0,28.1
+19,social,health,Child mortality,2022,0.0,42.6
+20,social,housing,Inadequate housing,2022,0.0,32.1
+21,social,income and work,Societal poverty,2022,0.0,72.5
+22,social,income and work,Youth unemployment,2022,0.0,20.3
+23,ecological,land conversion,Forest area,2022,47.9,60.9
+24,ecological,nutrient pollution,Nitrogen polution,2022,62.0,213.4
+25,ecological,nutrient pollution,Phosphorus polution,2022,6.2,273.7
+26,ecological,ocean acidification,Aragonite saturation,2022,2.75,-5.2
+27,ecological,ozone depletion,Stratospheric ozone concentration,2022,276.0,-61.3
+28,social,peace and justice,Perceptions of corruption,2022,0.0,74.8
+29,social,peace and justice,Homicides,2022,0.0,19.5
+30,social,political voice,Autocratic regimes,2022,0.0,70.8
+31,social,social cohesion,Income inequality,2022,0.0,64.7
+32,social,social cohesion,Lack of social support,2022,0.0,23.0
+33,social,water,Unsafe drinking water,2022,0.0,36.6
+34,social,water,Unsafe sanitation,2022,0.0,41.2
