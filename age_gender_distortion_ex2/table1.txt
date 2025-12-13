@@ -1,0 +1,17 @@
+'<div>\n<style scoped>
+\n    .dataframe tbody tr th:only-of-type {
+    \n        vertical-align: middle;
+    \n    }\n\n    .dataframe tbody tr th {
+        \n        vertical-align: top;
+        \n    }
+        \n
+        \n    .dataframe thead th {
+            \n        text-align: right;
+            \n    }
+            \n</style>
+            \n<table border="1" class="dataframe">
+            \n  <thead>\n    <tr style="text-align: right;">
+            \n      <th></th>
+            \n      <th>n</th>
+            \n      <th>r</th>
+            \n      <th>CI95%</th>\n      <th>p-val</th>\n      <th>BF10</th>\n      <th>power</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>pearson</th>\n      <td>3495</td>\n      <td>0.872559</td>\n      <td>[0.86, 0.88]</td>\n      <td>0.0</td>\n      <td>inf</td>\n      <td>1.0</td>\n    </tr>\n  </tbody>\n</table>\n</div>'
